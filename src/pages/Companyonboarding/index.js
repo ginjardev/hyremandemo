@@ -29,7 +29,7 @@ const CompanyonboardingPage = () => {
         </Column>
         <Row className="items-center 2xl:ml-[100px] ml-[120px] lg:ml-[77px] xl:ml-[88px] lg:mr-[129px] xl:mr-[148px] 2xl:mr-[166px] mr-[200px] lg:mt-[36px] xl:mt-[42px] 2xl:mt-[47px] mt-[57px] w-[81%]">
           <Img
-            src="images/img_flag.png"
+            src="images/Asset-3hyreman.svg"
             className="lg:h-[426px] xl:h-[488px] 2xl:h-[548px] h-[657px] 3xl:h-[658px] w-[34%]"
             alt="LayerOne"
           />
